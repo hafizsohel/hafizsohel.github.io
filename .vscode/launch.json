@@ -5,9 +5,8 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "C:\\Users\\hp\\Desktop\\My Portfolio/index.html"
-    
+            "file": "D:\\Office\\Android Practice Projects\\My Portfolio\\index.html"
+        
         }
-    
     ]
 }
